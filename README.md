@@ -9,6 +9,7 @@ A library for implementing a simple News app with multiple sections
 
 ![alt text](https://github.com/DiscoverPioneer/PioneerNewsLibrary/blob/master/Resources/news.PNG "Example during fading of feature images")
 
+
 ##Setup
  1. Add a podfile and add:<br><ul>
     <li>pod 'TabPageViewController' <br></li>
